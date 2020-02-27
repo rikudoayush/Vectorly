@@ -1,3 +1,3 @@
 # Vectorly
 
-<img src = "simpons_text">
+<img src = "simpons_text.png">
